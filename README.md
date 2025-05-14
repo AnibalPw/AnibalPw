@@ -46,11 +46,11 @@ Herramientas:</br>
 <h2>Encuéntrame en la web 🌎</h2>
 
 <p align="left">
- <a href = "mailto:anibalp9826wlf@gmail.com" target="blank">
+ <a href = "mailto:anibalp9826wlf@gmail.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@anibalp9826wlf"  />
  </a>
 
-  <a href="https://www.linkedin.com/in/anibal-perez-wolf/" target="blank">
+  <a href="https://www.linkedin.com/in/anibal-perez-wolf/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anibal-perez-wolf"/>
   </a>
 </p>
