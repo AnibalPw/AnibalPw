@@ -3,13 +3,17 @@
   Hola 👋 soy Aníbal.
 </h1>
 
+<div align="center">
+  <a href = "mailto:anibalp9826wlf@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@anibalp9826wlf"  /></a>
+  <a href="https://www.linkedin.com/in/anibal-perez-wolf/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anibal-perez-wolf"/></a>
+</div>
+
 <div align="center" width="300">
   <img  align="center" width="500" src="https://github.com/AnibalPw/AnibalPw/blob/b2397e27ee763f211c4a5f4fae77b363587f6898/An%C3%ADbal_voxel.png" alt="banner Aníbal Voxel - Ingeniero en informatica.">
 </div>
 
 <h2>Sobre mi 😃</h2>
-
-<p align="left"  style="max-width: 700px;">
+<p align="left">
   
   <strong>Soy un apasionado por la tecnología y aprendiz constante.</strong><br>
 
@@ -39,10 +43,11 @@ Base de datos:</br>
 Herramientas:</br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,npm,postman,bash,powershell,vscode,visualstudio&perline=10)](https://skillicons.dev)
 </br>
-<p align="left"  style="max-width: 700px;">
-  En mi día a día trabajo con otras tecnologías como <strong>Sql server, Cursor, IIS, Power BI</strong>, entre muchas otras.
+<p align="left" >
+ También trabajo con <strong>SQL Server, Cursor, IIS, Power BI</strong> y más tecnologías ocultas en el stack pero aún no desbloqueo sus íconos 😄
 </p> 
 
+<!-- 
 <h2>Encuéntrame en la web 🌎</h2>
 
 <p align="left">
@@ -54,3 +59,4 @@ Herramientas:</br>
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="anibal-perez-wolf"/>
   </a>
 </p>
+-->
